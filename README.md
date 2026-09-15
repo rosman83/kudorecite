@@ -1,14 +1,7 @@
 <div align="center">
 
-# وما أَسأَلُكُم عَلَيهِ مِن أَجرٍ إِن أَجرِيَ إِلّا عَلىٰ رَبِّ العالَمينَ
-الحمد لله
-# ReciteQuran — اتلو القران
 ### Real-Time On-Device Quran Karim Recitation Tracking & Tajweed Verification
 
-[![License](https://img.shields.io/badge/License-For%20The%20Sake%20Of%20Allah%20Subhanu-purple.svg)](#-sacred-covenant--license-لوجه-الله-تعالى)
-[![pub package](https://img.shields.io/badge/pub.dev-recite__quran%20v1.0.3-blue.svg)](https://pub.dev/packages/recite_quran)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Web-green.svg)](https://pub.dev/packages/recite_quran)
-[![Offline](https://img.shields.io/badge/Offline-100%25%20On--Device-orange.svg)](https://pub.dev/packages/recite_quran)
 
 </div>
 
@@ -444,35 +437,7 @@ flutter run -d windows   # or -d android / -d chrome
 ### 3. Words match too easily or are too strict
 * **Fix:** Adjust difficulty using `tracker.updateConfig(TrackerConfig.easy())` or `TrackerConfig.strict()`.
 
+
 ---
-
-## License (لوجه الله تعالى)
-
-### **مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ**
-
-> **THIS PACKAGE AND SOURCE CODE ARE DEDICATED FOR THE SAKE OF ALLAH ALONE.**
-
-Before viewing, using, distributing, or modifying any part of this repository, you explicitly agree to the following covenants:
-
-1. **100% Free to End Users**:
-   You may use, study, and redistribute this software or its logic **ONLY** in applications and services that are completely free of charge to all end users forever.
-2. **Strict Prohibition on Commercialization & Profit**:
-   You are **STRICTLY FORBIDDEN** from selling this application, placing it behind paywalls, subscription models, in-app purchases, charging download fees, monetizing it with advertisements (AdMob, Unity Ads, etc.), or extracting any financial revenue from this codebase, models, or outputs.
-3. **Pass-Through**:
-   These terms are immutable and strictly pass on to any fork, derivative work, or redistributed component.
-
----------
-
-##  Acknowledgments
-
-*Alhamdulillah (الحمد لله رب العالمين)* — this work builds upon open-source research and contributions from:
-- **[Zipformer Quran Streaming Model](https://huggingface.co/Quran-Lab/zipformer_p-arabic-v3)** by Brother Mustafa
-- **[quran-transcript](https://github.com/obadx/quran-transcript)** by Brother Abdullah Aml
-- **[Quranic Universal Aligner (qua_sdk)](https://huggingface.co/spaces/hetchyy/quranic-universal-aligner)** by Brother Ahmad Ibrahim
----
-
-<div align="center">
-
-**هذا من فضل ربي — ربنا تقبل منا إنك أنت السميع العليم**
 
 </div>
